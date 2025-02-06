@@ -35,7 +35,7 @@ I'm a highly motivated **Certified Data Analyst** eager to leverage my skills in
 
 ### 📫 Let's Connect:
 - **📧 Email:** [nupurroy66@gmail.com]
-- **🔗 LinkedIn:** []
+- **🔗 LinkedIn:** [https://www.linkedin.com/in/nupur-roy-623707173]
 - **🌐 Portfolio:** [Your Portfolio (if any)]
 
 I'm open to collaboration, learning, and exciting opportunities in the data field. Feel free to reach out!
